@@ -4,4 +4,4 @@ Super-simple Hebbian learning in multi-layer convolutional networks with PyTorch
 
 Look at the [Jupyter notebook](https://github.com/ThomasMiconi/HebbianCNNPyTorch/blob/main/HebbGrad_Simple_Github.ipynb) for a simple implementation.
 
-Preprint coming soon!
+Preprint (and more code) coming soon!
