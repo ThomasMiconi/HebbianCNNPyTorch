@@ -1,8 +1,8 @@
 # HebbianCNNPyTorch
 
-This code implements Hebbian learning in multi-layer convolutional networks with PyTorch. Just define a special loss whose gradient is equal to the Hebbian update!
+This code demonstrate a very easy way to implement Hebbian learning in multi-layer convolutional networks: just define a special loss whose gradient is equal to the Hebbian update!
 
-Ready-made expressions are available for plain Hebb's rule (dw ~= xy), Grossberg's Instar rule (dw ~= y(x-w)) and Oja's rule, (dw ~= y(x-wy)). All code is available as Jupyter notebooks.
+Ready-made expressions are available for plain Hebb's rule (dw ~= xy), Grossberg's Instar rule (dw ~= y(x-w)) and Oja's rule, (dw ~= y(x-wy)). All code is available as Jupyter notebooks with PyTorch, ready to use on Google Colab.
 
 * The [simple version](https://github.com/ThomasMiconi/HebbianCNNPyTorch/blob/main/HebbGrad_Simple_Github.ipynb) contains a simple but fully functional implementation. It is **highly recommended** to look at this version first.
 
