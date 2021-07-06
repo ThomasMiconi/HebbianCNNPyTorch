@@ -10,4 +10,4 @@ Ready-made expressions are available for plain Hebb's rule (dw ~= xy), Grossberg
 
 * The [checking code](https://github.com/ThomasMiconi/HebbianCNNPyTorch/blob/main/HebbGrad_CheckHebb.ipynb) just verifies that the PyTorch-generated gradients are equal to (hand-computed) Hebbian updates, for the various rules.
 
-Preprint (and more code) coming soon!
+For more details, see our preprint at https://arxiv.org/abs/2107.01729.
